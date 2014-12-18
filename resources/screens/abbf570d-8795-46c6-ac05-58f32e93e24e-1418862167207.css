@@ -1,0 +1,27 @@
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e {
+  background-color: transparent;
+  background-image: none;
+  min-width: 320px;
+  min-height: 505px;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Image_1 {
+  position: absolute;
+  top: 171px;
+  left: 0px;
+  width: 320px;
+  height: 334px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
