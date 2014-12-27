@@ -184,28 +184,6 @@
   border-bottom-color: #D8D8D6;
   -ms-transform: rotate(0.0deg);
 }
-#s-c261a0a5-8f23-4b3d-b59a-2521429def8b #s-Rectangle_15 {
-  border-top-width: 1px;
-  border-top-style: solid;
-  border-top-color: #404040;
-  border-right-width: 1px;
-  border-right-style: solid;
-  border-right-color: #404040;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-  border-bottom-color: #404040;
-  border-left-width: 1px;
-  border-left-style: solid;
-  border-left-color: #404040;
-  border-radius: 8px 8px 8px 8px;
-  padding-top: 4px;
-  padding-right: 4px;
-  padding-bottom: 4px;
-  padding-left: 4px;
-  width: 276px;
-  height: 40px;
-  -ms-transform: rotate(0.0deg);
-}
 #s-c261a0a5-8f23-4b3d-b59a-2521429def8b #s-Rectangle_17 {
   border-top-width: 1px;
   border-top-style: solid;
@@ -483,6 +461,118 @@
   padding-left: 4px;
   width: 276px;
   height: 40px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-c261a0a5-8f23-4b3d-b59a-2521429def8b #s-Label_4 {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #D8D8D6;
+  -ms-transform: rotate(0.0deg);
+}
+#s-c261a0a5-8f23-4b3d-b59a-2521429def8b #s-Rich_text_4 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #404040;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #404040;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #404040;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #404040;
+  border-radius: 5px 5px 5px 5px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  width: 32px;
+  height: 27px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-c261a0a5-8f23-4b3d-b59a-2521429def8b #s-Rich_text_6 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #404040;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #404040;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #404040;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #404040;
+  border-radius: 5px 5px 5px 5px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  width: 32px;
+  height: 27px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-c261a0a5-8f23-4b3d-b59a-2521429def8b #s-Label_5 {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #D8D8D6;
+  -ms-transform: rotate(0.0deg);
+}
+#s-c261a0a5-8f23-4b3d-b59a-2521429def8b #s-Label_7 {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #D8D8D6;
+  -ms-transform: rotate(0.0deg);
+}
+#s-c261a0a5-8f23-4b3d-b59a-2521429def8b #s-Rich_text_7 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #404040;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #404040;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #404040;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #404040;
+  border-radius: 5px 5px 5px 5px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  width: 32px;
+  height: 27px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-c261a0a5-8f23-4b3d-b59a-2521429def8b #s-Label_6 {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #D8D8D6;
+  -ms-transform: rotate(0.0deg);
+}
+#s-c261a0a5-8f23-4b3d-b59a-2521429def8b #s-Rich_text_5 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #404040;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #404040;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #404040;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #404040;
+  border-radius: 5px 5px 5px 5px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  width: 32px;
+  height: 27px;
   -ms-transform: rotate(0.0deg);
 }
 .ui-page {
